@@ -1,0 +1,11 @@
+.lightBg {
+  background-color: #ffffff;
+  height: 8vh;
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+}
+.main-con {
+  background-color: #181818;
+  padding: 5px;
+}

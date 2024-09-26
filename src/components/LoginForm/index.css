@@ -1,0 +1,74 @@
+.logo {
+  width: 140px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.img-box {
+  text-align: center;
+}
+.login-container {
+  background-color: #181818;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.container-login-form {
+  height: 400px;
+  width: 300px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 6px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.box-1-login {
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  font-size: 12px;
+  color: #7e858e;
+  font-family: Roboto;
+  font-weight: 500;
+  margin: 5px;
+}
+.input-1 {
+  outline: none;
+  height: 30px;
+  border: 1px solid #7e858e;
+  border-radius: 2px;
+  margin: 5px;
+  background-color: #e2e8f0;
+}
+.box-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.passwordName {
+  color: #0f0f0f;
+  font-size: 12px;
+  font-weight: 500;
+}
+.loginButton {
+  width: 150px;
+  height: 25px;
+  margin-left: 55px;
+  margin-top: 30px;
+  background-color: #3b82f6;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.errMsg {
+  color: red;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Roboto;
+}

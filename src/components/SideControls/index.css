@@ -1,0 +1,40 @@
+.light-side-bg {
+  background-color: #181818;
+  color: #ffffff;
+  background-size: cover;
+
+  width: 180px;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.side-container {
+  background-color: #ffffff;
+  color: #181818;
+  width: 180px;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.botton-box {
+  margin-left: 10px;
+}
+.title {
+  font-size: 20px;
+}
+.dark-font {
+  color: #181818;
+  font-size: 20px;
+}
+.c-light-color {
+  color: #ffffff;
+  font-size: 20px;
+}
+.link-home {
+  text-decoration: none;
+  outline: none;
+}
